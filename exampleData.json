@@ -1,0 +1,11 @@
+[
+    {
+      "input": "How much loan can I take?",
+      "expected_output": "You can take a loan of up to 3 times your monthly salary."
+    },
+    {
+      "input": "What services does Emumba offer?",
+      "expected_output": "Emumba offers software development, AI solutions, and cloud infrastructure."
+    }
+  ]
+  
